@@ -1,0 +1,19 @@
+# Day 3 – SQL Learning Journey
+
+Today I completed my core SQL learning by covering the remaining essential topics, including JOINs, subqueries, views, aggregate functions, GROUP BY, HAVING, and table modifications. I strengthened my understanding of relational databases by practicing data retrieval, filtering, table relationships, and query optimization through hands-on exercises.
+
+## Skills Practiced
+
+* Writing complex SQL queries
+* Working with INNER, LEFT, and RIGHT JOINs
+* Using aggregate functions and grouping data
+* Creating and querying views
+* Applying subqueries for advanced data retrieval
+* Modifying database schemas with `ALTER TABLE`
+* Managing records with `INSERT`, `UPDATE`, and `DELETE`
+
+### Next Steps
+
+* Build a complete Student Management Database project
+* Solve SQL challenges to improve query-writing speed and accuracy
+* Continue learning advanced database concepts and best practices
